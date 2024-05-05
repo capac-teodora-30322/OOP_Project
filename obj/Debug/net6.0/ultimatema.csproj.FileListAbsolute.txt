@@ -1,0 +1,15 @@
+D:\YEAR1SEM2\AI\ultimatema\bin\Debug\net6.0\ultimatema.exe
+D:\YEAR1SEM2\AI\ultimatema\bin\Debug\net6.0\ultimatema.deps.json
+D:\YEAR1SEM2\AI\ultimatema\bin\Debug\net6.0\ultimatema.runtimeconfig.json
+D:\YEAR1SEM2\AI\ultimatema\bin\Debug\net6.0\ultimatema.dll
+D:\YEAR1SEM2\AI\ultimatema\bin\Debug\net6.0\ultimatema.pdb
+D:\YEAR1SEM2\AI\ultimatema\obj\Debug\net6.0\ultimatema.csproj.AssemblyReference.cache
+D:\YEAR1SEM2\AI\ultimatema\obj\Debug\net6.0\ultimatema.GeneratedMSBuildEditorConfig.editorconfig
+D:\YEAR1SEM2\AI\ultimatema\obj\Debug\net6.0\ultimatema.AssemblyInfoInputs.cache
+D:\YEAR1SEM2\AI\ultimatema\obj\Debug\net6.0\ultimatema.AssemblyInfo.cs
+D:\YEAR1SEM2\AI\ultimatema\obj\Debug\net6.0\ultimatema.csproj.CoreCompileInputs.cache
+D:\YEAR1SEM2\AI\ultimatema\obj\Debug\net6.0\ultimatema.dll
+D:\YEAR1SEM2\AI\ultimatema\obj\Debug\net6.0\refint\ultimatema.dll
+D:\YEAR1SEM2\AI\ultimatema\obj\Debug\net6.0\ultimatema.pdb
+D:\YEAR1SEM2\AI\ultimatema\obj\Debug\net6.0\ultimatema.genruntimeconfig.cache
+D:\YEAR1SEM2\AI\ultimatema\obj\Debug\net6.0\ref\ultimatema.dll
